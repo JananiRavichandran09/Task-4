@@ -7,7 +7,7 @@
      + Arrow Function
      + IIFE Function
 
-+ The given task is to print the programs using `**Anonymous Function, Arrow Function and IIFE Function.**`
++ The given task is to print the programs using `Anonymous Function, Arrow Function and IIFE Function.`
 
   - The program using **Anonymous Functions** are in the `index.html` and `script.js` file.
   - The program using **IIFE Functions** are in the `index3.html` and `script3.js` file.
